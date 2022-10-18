@@ -6,4 +6,4 @@
 <a href="https://www.instagram.com/kiputron" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/rifki.putra.92754/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-![Alt Text](https://i.pinimg.com/originals/d1/d6/c0/d1d6c0fe9c91839b97e361387b505b97.gif](https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif)
+![Alt Text](https://i.pinimg.com/originals/d1/d6/c0/d1d6c0fe9c91839b97e361387b505b97.gif)
